@@ -1,0 +1,12 @@
+button:hover{
+    color: white;
+    background-color: red;
+}
+button:active{
+    color:red;
+    background-color: pink;
+}
+body{
+    text-align: center;
+}
+/* text-align serve para inline */
