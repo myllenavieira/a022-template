@@ -1,0 +1,16 @@
+header{
+    border: 1px solid black;
+    padding: 20px;
+    position: sticky;
+    top: 0px;
+    background-color: aquamarine;
+}
+main{
+    height: 1000px;
+    background-color: bisque;
+}
+footer{
+    border: 1px solid black;
+    padding: 20px;
+    background-color: aquamarine;
+}
